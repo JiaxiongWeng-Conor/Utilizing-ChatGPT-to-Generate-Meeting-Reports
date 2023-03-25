@@ -1,6 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   margin: 16px;
+  width: 400px;
+  min-height: 300px;
 }
 
 h1 {
@@ -32,8 +34,4 @@ button:hover {
 
 div {
   font-size: 16px;
-}
-body {
-  width: 400px;
-  min-height: 300px;
 }
