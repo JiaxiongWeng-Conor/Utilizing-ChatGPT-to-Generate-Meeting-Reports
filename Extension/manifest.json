@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "My ChatGPT Extension",
+  "name": "Meeting Report Generator",
   "version": "1.0",
-  "description": "A simple extension to generate meeting reports using ChatGPT",
+  "description": "A Google Chrome extension to generate meeting reports using ChatGPT",
   "icons": {
     "48": "icon.png"
   },
